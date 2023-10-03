@@ -1,0 +1,422 @@
+{"data": [
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "163.362",
+     "StopLossPrice": "163.795",
+     "TakeProfitPrice": "162.536",
+     "Comment": "",
+     "Time": "2022.05.02 12:30:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "162.536",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 162.536",
+     "Time": "2022.05.02 20:49:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "162.495",
+     "StopLossPrice": "163.135",
+     "TakeProfitPrice": "161.25",
+     "Comment": "",
+     "Time": "2022.05.02 20:49:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "163.135",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 163.135",
+     "Time": "2022.05.03 10:10:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "162.701",
+     "StopLossPrice": "163.345",
+     "TakeProfitPrice": "161.427",
+     "Comment": "",
+     "Time": "2022.05.03 13:45:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "163.345",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 163.345",
+     "Time": "2022.05.05 01:13:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "163.369",
+     "StopLossPrice": "162.636",
+     "TakeProfitPrice": "164.773",
+     "Comment": "",
+     "Time": "2022.05.05 01:13:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "162.636",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 162.636",
+     "Time": "2022.05.05 04:19:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "162.728",
+     "StopLossPrice": "162.109",
+     "TakeProfitPrice": "163.946",
+     "Comment": "",
+     "Time": "2022.05.05 12:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "162.109",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 162.109",
+     "Time": "2022.05.05 14:07:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "161.113",
+     "StopLossPrice": "162.318",
+     "TakeProfitPrice": "158.722",
+     "Comment": "",
+     "Time": "2022.05.05 15:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "158.722",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 158.722",
+     "Time": "2022.05.12 03:00:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "158.701",
+     "StopLossPrice": "159.251",
+     "TakeProfitPrice": "157.625",
+     "Comment": "",
+     "Time": "2022.05.12 03:00:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "157.625",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 157.625",
+     "Time": "2022.05.12 10:02:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "157.468",
+     "StopLossPrice": "158.501",
+     "TakeProfitPrice": "155.424",
+     "Comment": "",
+     "Time": "2022.05.12 10:02:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "158.501",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 158.501",
+     "Time": "2022.05.16 00:01:30"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "157.752",
+     "StopLossPrice": "158.602",
+     "TakeProfitPrice": "156.078",
+     "Comment": "",
+     "Time": "2022.05.16 07:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "158.602",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 158.602",
+     "Time": "2022.05.16 13:36:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "158.004",
+     "StopLossPrice": "158.791",
+     "TakeProfitPrice": "156.435",
+     "Comment": "",
+     "Time": "2022.05.16 17:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "158.791",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 158.791",
+     "Time": "2022.05.16 20:58:20"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "160.069",
+     "StopLossPrice": "159.577",
+     "TakeProfitPrice": "161.025",
+     "Comment": "",
+     "Time": "2022.05.17 10:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "161.025",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 161.025",
+     "Time": "2022.05.17 11:09:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "161.173",
+     "StopLossPrice": "159.734",
+     "TakeProfitPrice": "164.046",
+     "Comment": "",
+     "Time": "2022.05.17 11:09:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "159.734",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 159.734",
+     "Time": "2022.05.18 16:19:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "159.339",
+     "StopLossPrice": "160.281",
+     "TakeProfitPrice": "157.459",
+     "Comment": "",
+     "Time": "2022.05.18 17:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "160.281",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 160.281",
+     "Time": "2022.05.23 03:47:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "160.315",
+     "StopLossPrice": "159.648",
+     "TakeProfitPrice": "161.63",
+     "Comment": "",
+     "Time": "2022.05.23 03:47:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "159.648",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 159.648",
+     "Time": "2022.05.23 04:55:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "159.659",
+     "StopLossPrice": "159.648",
+     "TakeProfitPrice": "159.662",
+     "Comment": "",
+     "Time": "2022.05.23 04:59:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "159.648",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 159.648",
+     "Time": "2022.05.23 04:59:59"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "160.459",
+     "StopLossPrice": "159.781",
+     "TakeProfitPrice": "161.796",
+     "Comment": "",
+     "Time": "2022.05.23 09:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "159.781",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 159.781",
+     "Time": "2022.05.24 11:30:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "159.102",
+     "StopLossPrice": "160.07",
+     "TakeProfitPrice": "157.187",
+     "Comment": "",
+     "Time": "2022.05.24 12:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "160.07",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 160.070",
+     "Time": "2022.05.25 21:00:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "160.105",
+     "StopLossPrice": "159.354",
+     "TakeProfitPrice": "161.587",
+     "Comment": "",
+     "Time": "2022.05.25 21:00:40"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "159.354",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 159.354",
+     "Time": "2022.05.26 10:02:20"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "159.338",
+     "StopLossPrice": "160.084",
+     "TakeProfitPrice": "157.866",
+     "Comment": "",
+     "Time": "2022.05.26 11:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "160.084",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 160.084",
+     "Time": "2022.05.26 14:13:20"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "160.563",
+     "StopLossPrice": "160.235",
+     "TakeProfitPrice": "161.196",
+     "Comment": "",
+     "Time": "2022.05.27 23:00:00"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "161.196",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 161.196",
+     "Time": "2022.05.30 15:14:20"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "161.205",
+     "StopLossPrice": "160.688",
+     "TakeProfitPrice": "162.222",
+     "Comment": "",
+     "Time": "2022.05.30 15:14:20"
+  },
+  {
+     "Symbol": "GBPJPY",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "161.339",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "end of test",
+     "Time": "2022.05.30 23:59:59"
+  }
+]}

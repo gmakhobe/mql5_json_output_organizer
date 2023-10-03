@@ -1,0 +1,51 @@
+{
+  "total_trades": 388,
+  "average_trades_per_month": 32.333333333333336,
+  "average_trades_per_quarter": 97.0,
+  "average_trades_per_semester": 64.66666666666667,
+  "week_day_trades": {
+    "Monday": {
+      "total_trades": 68,
+      "total_winning_trades": 26,
+      "total_losing_trades": 42
+    },
+    "Tuesday": {
+      "total_trades": 108,
+      "total_winning_trades": 40,
+      "total_losing_trades": 68
+    },
+    "Wednesday": {
+      "total_trades": 70,
+      "total_winning_trades": 26,
+      "total_losing_trades": 44
+    },
+    "Thursday": {
+      "total_trades": 63,
+      "total_winning_trades": 25,
+      "total_losing_trades": 38
+    },
+    "Friday": {
+      "total_trades": 79,
+      "total_winning_trades": 30,
+      "total_losing_trades": 49
+    }
+  },
+  "winning_and_losing_trades": {
+    "highest_winning_day": {
+      "day": "Tuesday",
+      "net_percent": 12
+    },
+    "lowest_winning_day": {
+      "day": "Wednesday",
+      "net_percent": 8
+    },
+    "highest_losing_day": {
+      "day": null,
+      "net_percent": 0
+    },
+    "lowest_losing_day": {
+      "day": null,
+      "net_percent": 0
+    }
+  }
+}

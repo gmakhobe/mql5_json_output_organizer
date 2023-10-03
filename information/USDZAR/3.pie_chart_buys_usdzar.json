@@ -1,0 +1,12 @@
+{
+  "winning_trades": 41,
+  "losing_trades": 114,
+  "winning_trades_percentage": 26.451612903225808,
+  "losing_trades_percentage": 73.54838709677419,
+  "reward": 82,
+  "loss": 114,
+  "reward_percentage": 41.83673469387755,
+  "loss_percentage": 58.16326530612245,
+  "net_winnings": -73,
+  "net_rewards": -32
+}

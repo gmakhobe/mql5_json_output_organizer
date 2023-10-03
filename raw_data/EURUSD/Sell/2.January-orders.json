@@ -1,0 +1,82 @@
+{"data": [
+  {
+     "Symbol": "EURUSD",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "1.13811",
+     "StopLossPrice": "1.13943",
+     "TakeProfitPrice": "1.13555",
+     "Comment": "",
+     "Time": "2022.02.11 07:00:00"
+  },
+  {
+     "Symbol": "EURUSD",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "1.13943",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1.13943",
+     "Time": "2022.02.11 10:27:40"
+  },
+  {
+     "Symbol": "EURUSD",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "1.13511",
+     "StopLossPrice": "1.13973",
+     "TakeProfitPrice": "1.12588",
+     "Comment": "",
+     "Time": "2022.02.11 21:00:00"
+  },
+  {
+     "Symbol": "EURUSD",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "1.12588",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 1.12588",
+     "Time": "2022.02.24 05:25:40"
+  },
+  {
+     "Symbol": "EURUSD",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "1.1256",
+     "StopLossPrice": "1.13004",
+     "TakeProfitPrice": "1.11679",
+     "Comment": "",
+     "Time": "2022.02.24 05:25:40"
+  },
+  {
+     "Symbol": "EURUSD",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "1.11679",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 1.11679",
+     "Time": "2022.02.24 12:33:40"
+  },
+  {
+     "Symbol": "EURUSD",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "1.11667",
+     "StopLossPrice": "1.1246",
+     "TakeProfitPrice": "1.1008499999999999",
+     "Comment": "",
+     "Time": "2022.02.24 12:33:40"
+  },
+  {
+     "Symbol": "EURUSD",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "1.1246",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1.12460",
+     "Time": "2022.02.25 16:47:40"
+  }
+]}

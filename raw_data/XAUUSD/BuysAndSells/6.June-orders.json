@@ -1,0 +1,722 @@
+{"data": [
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1836.74",
+     "StopLossPrice": "1842.25",
+     "TakeProfitPrice": "1827.34",
+     "Comment": "",
+     "Time": "2022.06.01 01:05:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1842.25",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1842.25",
+     "Time": "2022.06.01 15:43:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1851.96",
+     "StopLossPrice": "1846.87",
+     "TakeProfitPrice": "1862.09",
+     "Comment": "",
+     "Time": "2022.06.02 10:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1862.09",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 1862.09",
+     "Time": "2022.06.02 16:25:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1862.21",
+     "StopLossPrice": "1851.79",
+     "TakeProfitPrice": "1883.02",
+     "Comment": "",
+     "Time": "2022.06.02 16:25:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1851.79",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1851.79",
+     "Time": "2022.06.03 18:47:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1852.0",
+     "StopLossPrice": "1862.67",
+     "TakeProfitPrice": "1830.68",
+     "Comment": "",
+     "Time": "2022.06.03 19:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1830.68",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 1830.68",
+     "Time": "2022.06.10 15:30:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1827.9",
+     "StopLossPrice": "1840.37",
+     "TakeProfitPrice": "1803.09",
+     "Comment": "",
+     "Time": "2022.06.10 15:30:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1840.37",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1840.37",
+     "Time": "2022.06.10 15:39:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1831.39",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1797.48",
+     "Comment": "",
+     "Time": "2022.06.10 16:45:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1848.35",
+     "Time": "2022.06.10 17:31:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1846.82",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1843.79",
+     "Comment": "",
+     "Time": "2022.06.10 17:31:59"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1848.35",
+     "Time": "2022.06.10 17:33:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1847.25",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1845.08",
+     "Comment": "",
+     "Time": "2022.06.10 17:33:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1848.35",
+     "Time": "2022.06.10 17:34:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1847.31",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1845.26",
+     "Comment": "",
+     "Time": "2022.06.10 17:34:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1848.35",
+     "Time": "2022.06.10 17:35:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1847.19",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1844.9",
+     "Comment": "",
+     "Time": "2022.06.10 17:36:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1848.35",
+     "Time": "2022.06.10 17:37:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1848.01",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1847.36",
+     "Comment": "",
+     "Time": "2022.06.10 17:37:59"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1847.36",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 1847.36",
+     "Time": "2022.06.10 17:38:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1846.47",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1842.74",
+     "Comment": "",
+     "Time": "2022.06.10 17:38:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1848.35",
+     "Time": "2022.06.10 17:39:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1848.21",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1847.96",
+     "Comment": "",
+     "Time": "2022.06.10 17:41:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1848.35",
+     "Time": "2022.06.10 17:41:59"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1847.71",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1846.46",
+     "Comment": "",
+     "Time": "2022.06.10 17:42:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1848.35",
+     "Time": "2022.06.10 17:43:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1848.32",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1848.29",
+     "Comment": "",
+     "Time": "2022.06.10 17:43:59"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.29",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 1848.29",
+     "Time": "2022.06.10 17:44:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1847.88",
+     "StopLossPrice": "1848.35",
+     "TakeProfitPrice": "1846.97",
+     "Comment": "",
+     "Time": "2022.06.10 17:44:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1848.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1848.35",
+     "Time": "2022.06.10 17:44:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1855.98",
+     "StopLossPrice": "1827.89",
+     "TakeProfitPrice": "1912.12",
+     "Comment": "",
+     "Time": "2022.06.10 18:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1827.89",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1827.89",
+     "Time": "2022.06.13 17:03:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1827.7",
+     "StopLossPrice": "1846.56",
+     "TakeProfitPrice": "1790.0",
+     "Comment": "",
+     "Time": "2022.06.13 17:03:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1846.56",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1846.56",
+     "Time": "2022.06.16 18:50:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1845.4",
+     "StopLossPrice": "1832.61",
+     "TakeProfitPrice": "1870.92",
+     "Comment": "",
+     "Time": "2022.06.16 19:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1832.61",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1832.61",
+     "Time": "2022.06.21 14:07:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1832.67",
+     "StopLossPrice": "1838.49",
+     "TakeProfitPrice": "1821.08",
+     "Comment": "",
+     "Time": "2022.06.21 14:15:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1838.49",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1838.49",
+     "Time": "2022.06.21 15:31:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1838.08",
+     "StopLossPrice": "1838.49",
+     "TakeProfitPrice": "1837.27",
+     "Comment": "",
+     "Time": "2022.06.21 15:32:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1838.49",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1838.49",
+     "Time": "2022.06.21 15:32:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1838.02",
+     "StopLossPrice": "1838.49",
+     "TakeProfitPrice": "1837.09",
+     "Comment": "",
+     "Time": "2022.06.21 15:35:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1838.49",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1838.49",
+     "Time": "2022.06.21 15:36:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1838.48",
+     "StopLossPrice": "1838.49",
+     "TakeProfitPrice": "1838.47",
+     "Comment": "",
+     "Time": "2022.06.21 15:36:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1838.47",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 1838.47",
+     "Time": "2022.06.21 15:36:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1837.4",
+     "StopLossPrice": "1838.49",
+     "TakeProfitPrice": "1835.23",
+     "Comment": "",
+     "Time": "2022.06.21 15:36:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1835.23",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 1835.23",
+     "Time": "2022.06.21 16:26:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1834.94",
+     "StopLossPrice": "1838.49",
+     "TakeProfitPrice": "1827.85",
+     "Comment": "",
+     "Time": "2022.06.21 16:26:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1838.49",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1838.49",
+     "Time": "2022.06.21 16:47:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1831.09",
+     "StopLossPrice": "1836.56",
+     "TakeProfitPrice": "1820.18",
+     "Comment": "",
+     "Time": "2022.06.21 22:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1836.56",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1836.56",
+     "Time": "2022.06.22 14:09:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1844.75",
+     "StopLossPrice": "1832.96",
+     "TakeProfitPrice": "1868.26",
+     "Comment": "",
+     "Time": "2022.06.22 16:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1832.96",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1832.96",
+     "Time": "2022.06.23 05:01:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1837.91",
+     "StopLossPrice": "1829.86",
+     "TakeProfitPrice": "1853.99",
+     "Comment": "",
+     "Time": "2022.06.23 11:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1829.86",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1829.86",
+     "Time": "2022.06.23 13:02:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1844.35",
+     "StopLossPrice": "1830.09",
+     "TakeProfitPrice": "1872.86",
+     "Comment": "",
+     "Time": "2022.06.23 17:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1830.09",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1830.09",
+     "Time": "2022.06.23 19:38:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1826.11",
+     "StopLossPrice": "1831.37",
+     "TakeProfitPrice": "1815.63",
+     "Comment": "",
+     "Time": "2022.06.23 22:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1831.37",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1831.37",
+     "Time": "2022.06.24 10:55:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1822.09",
+     "StopLossPrice": "1830.5",
+     "TakeProfitPrice": "1805.32",
+     "Comment": "",
+     "Time": "2022.06.24 16:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1830.5",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1830.50",
+     "Time": "2022.06.24 18:29:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1826.9",
+     "StopLossPrice": "1830.5",
+     "TakeProfitPrice": "1819.75",
+     "Comment": "",
+     "Time": "2022.06.24 21:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1830.5",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1830.50",
+     "Time": "2022.06.24 21:12:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1830.41",
+     "StopLossPrice": "1830.5",
+     "TakeProfitPrice": "1830.3",
+     "Comment": "",
+     "Time": "2022.06.24 21:13:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1830.5",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1830.50",
+     "Time": "2022.06.24 21:14:40"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1825.65",
+     "StopLossPrice": "1829.68",
+     "TakeProfitPrice": "1817.74",
+     "Comment": "",
+     "Time": "2022.06.24 23:15:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1829.68",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1829.68",
+     "Time": "2022.06.27 01:05:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1834.77",
+     "StopLossPrice": "1829.68",
+     "TakeProfitPrice": "1844.77",
+     "Comment": "",
+     "Time": "2022.06.27 05:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1829.68",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 1829.68",
+     "Time": "2022.06.27 15:30:20"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Sell",
+     "Volume": "1.01",
+     "EntryPrice": "1825.22",
+     "StopLossPrice": "1834.06",
+     "TakeProfitPrice": "1807.55",
+     "Comment": "",
+     "Time": "2022.06.27 18:00:00"
+  },
+  {
+     "Symbol": "Gold",
+     "Type": "Buy",
+     "Volume": "1.01",
+     "EntryPrice": "1818.35",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "end of test",
+     "Time": "2022.06.29 23:54:59"
+  }
+]}

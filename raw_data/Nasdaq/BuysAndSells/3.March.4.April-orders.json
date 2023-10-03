@@ -1,0 +1,682 @@
+{"data": [
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14036.53",
+     "TakeProfitPrice": "14717.49",
+     "Comment": "",
+     "Time": "2022.03.01 00:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14036.53",
+     "Time": "2022.03.01 16:55:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "13985.84",
+     "TakeProfitPrice": "14616.16",
+     "Comment": "",
+     "Time": "2022.03.02 18:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 13985.84",
+     "Time": "2022.03.04 00:22:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14033.39",
+     "TakeProfitPrice": "13372.37",
+     "Comment": "",
+     "Time": "2022.03.04 01:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14033.39",
+     "Time": "2022.03.04 08:10:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14048.87",
+     "TakeProfitPrice": "13650.8",
+     "Comment": "",
+     "Time": "2022.03.04 10:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 13650.80",
+     "Time": "2022.03.06 23:30:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "13947.29",
+     "TakeProfitPrice": "12882.68",
+     "Comment": "",
+     "Time": "2022.03.06 23:30:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 13947.29",
+     "Time": "2022.03.16 22:30:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "13639.87",
+     "TakeProfitPrice": "14622.26",
+     "Comment": "",
+     "Time": "2022.03.16 22:45:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 14622.26",
+     "Time": "2022.03.22 14:35:20"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14426.42",
+     "TakeProfitPrice": "15031.51",
+     "Comment": "",
+     "Time": "2022.03.22 14:35:20"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 15031.51",
+     "Time": "2022.03.29 06:59:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14980.75",
+     "TakeProfitPrice": "15161.69",
+     "Comment": "",
+     "Time": "2022.03.29 06:59:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 15161.69",
+     "Time": "2022.03.29 12:25:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "15002.28",
+     "TakeProfitPrice": "15507.75",
+     "Comment": "",
+     "Time": "2022.03.29 12:25:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 15002.28",
+     "Time": "2022.03.31 13:41:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14943.02",
+     "TakeProfitPrice": "14418.26",
+     "Comment": "",
+     "Time": "2022.04.01 16:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14943.02",
+     "Time": "2022.04.04 10:15:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14913.26",
+     "TakeProfitPrice": "15330.69",
+     "Comment": "",
+     "Time": "2022.04.04 14:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14913.26",
+     "Time": "2022.04.05 15:36:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "15076.78",
+     "TakeProfitPrice": "14528.7",
+     "Comment": "",
+     "Time": "2022.04.05 16:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 14528.70",
+     "Time": "2022.04.06 13:48:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14670.31",
+     "TakeProfitPrice": "14237.89",
+     "Comment": "",
+     "Time": "2022.04.06 13:48:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 14237.89",
+     "Time": "2022.04.11 02:05:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14329.73",
+     "TakeProfitPrice": "14045.96",
+     "Comment": "",
+     "Time": "2022.04.11 02:05:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 14045.96",
+     "Time": "2022.04.11 14:46:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14230.07",
+     "TakeProfitPrice": "13667.65",
+     "Comment": "",
+     "Time": "2022.04.11 14:46:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14230.07",
+     "Time": "2022.04.12 12:43:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14061.45",
+     "TakeProfitPrice": "13748.85",
+     "Comment": "",
+     "Time": "2022.04.13 13:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14061.45",
+     "Time": "2022.04.13 13:46:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14055.47",
+     "TakeProfitPrice": "14036.47",
+     "Comment": "",
+     "Time": "2022.04.13 13:46:59"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14055.47",
+     "Time": "2022.04.13 13:47:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14055.47",
+     "TakeProfitPrice": "14041.46",
+     "Comment": "",
+     "Time": "2022.04.13 13:49:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14055.47",
+     "Time": "2022.04.13 13:50:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14055.47",
+     "TakeProfitPrice": "14018.72",
+     "Comment": "",
+     "Time": "2022.04.13 13:51:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14055.47",
+     "Time": "2022.04.13 13:54:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14055.47",
+     "TakeProfitPrice": "13989.3",
+     "Comment": "",
+     "Time": "2022.04.13 13:55:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14055.47",
+     "Time": "2022.04.13 14:05:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14055.47",
+     "TakeProfitPrice": "14035.43",
+     "Comment": "",
+     "Time": "2022.04.13 14:06:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14055.47",
+     "Time": "2022.04.13 14:06:59"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14055.47",
+     "TakeProfitPrice": "14033.41",
+     "Comment": "",
+     "Time": "2022.04.13 14:07:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14055.47",
+     "Time": "2022.04.13 14:07:59"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14055.47",
+     "TakeProfitPrice": "13986.81",
+     "Comment": "",
+     "Time": "2022.04.13 14:08:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14055.47",
+     "Time": "2022.04.13 14:15:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14251.38",
+     "TakeProfitPrice": "13861.33",
+     "Comment": "",
+     "Time": "2022.04.14 14:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 13861.33",
+     "Time": "2022.04.17 22:30:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14025.49",
+     "TakeProfitPrice": "13374.64",
+     "Comment": "",
+     "Time": "2022.04.17 22:30:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14025.49",
+     "Time": "2022.04.18 23:53:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14135.28",
+     "TakeProfitPrice": "14362.06",
+     "Comment": "",
+     "Time": "2022.04.20 10:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14135.28",
+     "Time": "2022.04.20 13:43:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14236.87",
+     "TakeProfitPrice": "13836.62",
+     "Comment": "",
+     "Time": "2022.04.20 14:15:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 14236.87",
+     "Time": "2022.04.21 13:32:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "14273.3",
+     "TakeProfitPrice": "13755.54",
+     "Comment": "",
+     "Time": "2022.04.21 15:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 13755.54",
+     "Time": "2022.04.21 18:59:20"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "13978.86",
+     "TakeProfitPrice": "13287.24",
+     "Comment": "",
+     "Time": "2022.04.21 18:59:20"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 13287.24",
+     "Time": "2022.04.25 00:08:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "13484.19",
+     "TakeProfitPrice": "12844.84",
+     "Comment": "",
+     "Time": "2022.04.25 00:08:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 13484.19",
+     "Time": "2022.04.25 18:47:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "13441.34",
+     "TakeProfitPrice": "12943.35",
+     "Comment": "",
+     "Time": "2022.04.26 14:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 12943.35",
+     "Time": "2022.04.27 14:32:20"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "13253.66",
+     "TakeProfitPrice": "12309.13",
+     "Comment": "",
+     "Time": "2022.04.27 14:32:20"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 13253.66",
+     "Time": "2022.04.28 06:50:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "13299.31",
+     "TakeProfitPrice": "12836.85",
+     "Comment": "",
+     "Time": "2022.04.28 14:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 13299.31",
+     "Time": "2022.04.28 16:35:40"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Sell",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "13472.12",
+     "TakeProfitPrice": "12600.63",
+     "Comment": "",
+     "Time": "2022.04.29 16:00:00"
+  },
+  {
+     "Symbol": "Nasdaq",
+     "Type": "Buy",
+     "Volume": "10.0",
+     "EntryPrice": "0.0",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "end of test",
+     "Time": "2022.04.29 19:58:59"
+  }
+]}

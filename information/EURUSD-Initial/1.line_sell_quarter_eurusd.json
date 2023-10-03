@@ -1,0 +1,34 @@
+{
+  "Q1": {
+    "gross_profit": 9975.77,
+    "gross_loss": -7592.17,
+    "gross_reward": 60,
+    "gross_risk": 19,
+    "net_profit": 2383.600000000001,
+    "net_reward": 41
+  },
+  "Q2": {
+    "gross_profit": 11806.9,
+    "gross_loss": -12836.09,
+    "gross_reward": 86,
+    "gross_risk": 65,
+    "net_profit": -1029.1899999999998,
+    "net_reward": 21
+  },
+  "Q3": {
+    "gross_profit": 13151.21,
+    "gross_loss": -12878.509999999998,
+    "gross_reward": 66,
+    "gross_risk": 36,
+    "net_profit": 272.6999999999998,
+    "net_reward": 30
+  },
+  "Q4": {
+    "gross_profit": 2129.08,
+    "gross_loss": -9959.61,
+    "gross_reward": 36,
+    "gross_risk": 59,
+    "net_profit": -7830.530000000001,
+    "net_reward": -23
+  }
+}

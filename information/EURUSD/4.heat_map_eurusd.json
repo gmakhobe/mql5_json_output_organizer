@@ -1,0 +1,14 @@
+{
+  "buy_and_sell": {
+    "net_winnings": -120,
+    "net_rewards": -32
+  },
+  "sell": {
+    "net_winnings": -55,
+    "net_rewards": -26
+  },
+  "buy": {
+    "net_winnings": -68,
+    "net_rewards": -11
+  }
+}

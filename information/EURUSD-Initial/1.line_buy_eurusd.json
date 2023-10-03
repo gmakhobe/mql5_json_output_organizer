@@ -1,0 +1,110 @@
+{
+  "January": {
+    "gross_profit": 938.29,
+    "gross_loss": -1862.4400000000003,
+    "gross_reward": 4,
+    "gross_risk": 10,
+    "net_profit": -924.1500000000003,
+    "net_reward": -6,
+    "date": "31 January 2022"
+  },
+  "February": {
+    "gross_profit": 660.54,
+    "gross_loss": -1315.02,
+    "gross_reward": 4,
+    "gross_risk": 9,
+    "net_profit": -654.48,
+    "net_reward": -5,
+    "date": "28 February 2022"
+  },
+  "March": {
+    "gross_profit": 1155.44,
+    "gross_loss": -3044.1399999999994,
+    "gross_reward": 4,
+    "gross_risk": 7,
+    "net_profit": -1888.6999999999994,
+    "net_reward": -3,
+    "date": "31 March 2022"
+  },
+  "April": {
+    "gross_profit": 613.07,
+    "gross_loss": -738.31,
+    "gross_reward": 2,
+    "gross_risk": 2,
+    "net_profit": -125.2399999999999,
+    "net_reward": 0,
+    "date": "30 April 2022"
+  },
+  "May": {
+    "gross_profit": 2824.9700000000003,
+    "gross_loss": -3402.6899999999996,
+    "gross_reward": 8,
+    "gross_risk": 7,
+    "net_profit": -577.7199999999993,
+    "net_reward": 1
+    "date": "31 May 2022"
+  },
+  "June": {
+    "gross_profit": 988.79,
+    "gross_loss": -2714.88,
+    "gross_reward": 4,
+    "gross_risk": 6,
+    "net_profit": -1726.0900000000001,
+    "net_reward": -2,
+    "date": "30 June 2022"
+  },
+  "July": {
+    "gross_profit": 1064.54,
+    "gross_loss": -4166.25,
+    "gross_reward": 2,
+    "gross_risk": 11,
+    "net_profit": -3101.71,
+    "net_reward": -9,
+    "date": "31 July 2022"
+  },
+  "August": {
+    "gross_profit": 745.38,
+    "gross_loss": -3076.46,
+    "gross_reward": 2,
+    "gross_risk": 7,
+    "net_profit": -2331.08,
+    "net_reward": -5,
+    "date": "31 August 2022"
+  },
+  "September": {
+    "gross_profit": 1145.3400000000001,
+    "gross_loss": -3249.17,
+    "gross_reward": 6,
+    "gross_risk": 8,
+    "net_profit": -2103.83,
+    "net_reward": -2,
+    "date": "30 September 2022"
+  },
+  "October": {
+    "gross_profit": 2532.0699999999997,
+    "gross_loss": -2006.87,
+    "gross_reward": 6,
+    "gross_risk": 4,
+    "net_profit": 525.1999999999998,
+    "net_reward": 2,
+    "date": "31 October 2022"
+  },
+  "November": {
+    "gross_profit": 6176.15,
+    "gross_loss": -1803.86,
+    "gross_reward": 8,
+    "gross_risk": 4,
+    "net_profit": 4372.29,
+    "net_reward": 4,
+    "date": "30 November 2022"
+  },
+  "December": {
+    "gross_profit": 2317.9500000000003,
+    "gross_loss": -1642.26,
+    "gross_reward": 8,
+    "gross_risk": 9,
+    "net_profit": 675.6900000000003,
+    "net_reward": -1,
+    "date": "31 December 2022"
+  }
+}

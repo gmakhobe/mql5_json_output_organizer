@@ -1,0 +1,98 @@
+{
+  "January": {
+    "gross_profit": 236.50000000000003,
+    "gross_loss": -75.2,
+    "gross_reward": 10,
+    "gross_risk": 3,
+    "net_profit": 161.3,
+    "net_reward": 7
+  },
+  "February": {
+    "gross_profit": 180.40000000000003,
+    "gross_loss": -92.50000000000001,
+    "gross_reward": 4,
+    "gross_risk": 2,
+    "net_profit": 87.90000000000002,
+    "net_reward": 2
+  },
+  "March": {
+    "gross_profit": 371.3,
+    "gross_loss": -286.90000000000003,
+    "gross_reward": 8,
+    "gross_risk": 6,
+    "net_profit": 84.39999999999998,
+    "net_reward": 2
+  },
+  "April": {
+    "gross_profit": 558.1,
+    "gross_loss": -276.9,
+    "gross_reward": 14,
+    "gross_risk": 8,
+    "net_profit": 281.20000000000005,
+    "net_reward": 6
+  },
+  "May": {
+    "gross_profit": 111.1,
+    "gross_loss": -262.1,
+    "gross_reward": 12,
+    "gross_risk": 15,
+    "net_profit": -151.00000000000003,
+    "net_reward": -3
+  },
+  "June": {
+    "gross_profit": 441.2,
+    "gross_loss": -507.1,
+    "gross_reward": 20,
+    "gross_risk": 26,
+    "net_profit": -65.90000000000003,
+    "net_reward": -6
+  },
+  "July": {
+    "gross_profit": 428.4,
+    "gross_loss": -372.6,
+    "gross_reward": 12,
+    "gross_risk": 12,
+    "net_profit": 55.799999999999955,
+    "net_reward": 0
+  },
+  "August": {
+    "gross_profit": 287.90000000000003,
+    "gross_loss": -299.2,
+    "gross_reward": 10,
+    "gross_risk": 10,
+    "net_profit": -11.299999999999955,
+    "net_reward": 0
+  },
+  "September": {
+    "gross_profit": 495.1,
+    "gross_loss": -431.90000000000003,
+    "gross_reward": 12,
+    "gross_risk": 6,
+    "net_profit": 63.19999999999999,
+    "net_reward": 6
+  },
+  "October": {
+    "gross_profit": 58.400000000000006,
+    "gross_loss": -321.5,
+    "gross_reward": 10,
+    "gross_risk": 25,
+    "net_profit": -263.1,
+    "net_reward": -15
+  },
+  "November": {
+    "gross_profit": 0.2,
+    "gross_loss": -264.40000000000003,
+    "gross_reward": 2,
+    "gross_risk": 5,
+    "net_profit": -264.20000000000005,
+    "net_reward": -3
+  },
+  "December": {
+    "gross_profit": 0,
+    "gross_loss": -138.6,
+    "gross_reward": 0,
+    "gross_risk": 7,
+    "net_profit": -138.6,
+    "net_reward": -7
+  }
+}

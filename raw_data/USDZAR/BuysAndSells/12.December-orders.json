@@ -1,0 +1,642 @@
+{"data": [
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.22456",
+     "StopLossPrice": "17.14139",
+     "TakeProfitPrice": "17.30771",
+     "Comment": "",
+     "Time": "2022.12.01 00:00:30"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.14139",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.14139",
+     "Time": "2022.12.01 01:53:30"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.32421",
+     "StopLossPrice": "17.08724",
+     "TakeProfitPrice": "17.78771",
+     "Comment": "",
+     "Time": "2022.12.01 10:00:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.78771",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 17.78771",
+     "Time": "2022.12.01 15:02:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.79814",
+     "StopLossPrice": "17.39621",
+     "TakeProfitPrice": "18.59124",
+     "Comment": "",
+     "Time": "2022.12.01 15:02:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.39621",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.39621",
+     "Time": "2022.12.02 11:35:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.47194",
+     "StopLossPrice": "17.25106",
+     "TakeProfitPrice": "17.89089",
+     "Comment": "",
+     "Time": "2022.12.05 19:00:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.25106",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.25106",
+     "Time": "2022.12.07 14:55:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.10399",
+     "StopLossPrice": "17.25544",
+     "TakeProfitPrice": "16.81633",
+     "Comment": "",
+     "Time": "2022.12.07 16:00:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.25544",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.25544",
+     "Time": "2022.12.09 12:17:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.25914",
+     "StopLossPrice": "17.1648",
+     "TakeProfitPrice": "17.43199",
+     "Comment": "",
+     "Time": "2022.12.09 13:00:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.43199",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 17.43199",
+     "Time": "2022.12.12 11:19:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.46009",
+     "StopLossPrice": "17.31926",
+     "TakeProfitPrice": "17.72585",
+     "Comment": "",
+     "Time": "2022.12.12 11:30:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.72585",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 17.72585",
+     "Time": "2022.12.13 12:10:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.73696",
+     "StopLossPrice": "17.60723",
+     "TakeProfitPrice": "17.98334",
+     "Comment": "",
+     "Time": "2022.12.13 12:10:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.60723",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.60723",
+     "Time": "2022.12.13 15:30:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.30912",
+     "StopLossPrice": "17.58769",
+     "TakeProfitPrice": "16.7712",
+     "Comment": "",
+     "Time": "2022.12.13 17:00:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.58769",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.58769",
+     "Time": "2022.12.16 10:25:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.59363",
+     "StopLossPrice": "17.4539",
+     "TakeProfitPrice": "17.85553",
+     "Comment": "",
+     "Time": "2022.12.16 10:25:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.4539",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.45390",
+     "Time": "2022.12.19 10:42:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.27815",
+     "StopLossPrice": "17.46603",
+     "TakeProfitPrice": "16.92114",
+     "Comment": "",
+     "Time": "2022.12.19 12:00:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "16.92114",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "tp 16.92114",
+     "Time": "2022.12.29 17:33:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.91032",
+     "StopLossPrice": "17.05446",
+     "TakeProfitPrice": "16.63457",
+     "Comment": "",
+     "Time": "2022.12.29 17:33:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.05446",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.05446",
+     "Time": "2022.12.30 20:09:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9865",
+     "StopLossPrice": "17.0287",
+     "TakeProfitPrice": "16.93591",
+     "Comment": "",
+     "Time": "2022.12.30 22:45:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.0287",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02870",
+     "Time": "2022.12.30 23:04:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.99978",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.995449999999998",
+     "Comment": "",
+     "Time": "2022.12.30 23:04:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:05:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "17.0023",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "17.00001",
+     "Comment": "",
+     "Time": "2022.12.30 23:06:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:07:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9978",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.99283",
+     "Comment": "",
+     "Time": "2022.12.30 23:08:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:09:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9963",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.99381",
+     "Comment": "",
+     "Time": "2022.12.30 23:11:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:12:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.998",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.99771",
+     "Comment": "",
+     "Time": "2022.12.30 23:13:20"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:13:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9973",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.99601",
+     "Comment": "",
+     "Time": "2022.12.30 23:14:20"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:14:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9964",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.99011",
+     "Comment": "",
+     "Time": "2022.12.30 23:24:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:34:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9875",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.98727",
+     "Comment": "",
+     "Time": "2022.12.30 23:34:20"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:34:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9882",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.98065",
+     "Comment": "",
+     "Time": "2022.12.30 23:35:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:39:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9859",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.98161",
+     "Comment": "",
+     "Time": "2022.12.30 23:39:59"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:40:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.984",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.98237",
+     "Comment": "",
+     "Time": "2022.12.30 23:40:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:41:20"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9832",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.98023",
+     "Comment": "",
+     "Time": "2022.12.30 23:41:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:42:20"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9828",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.97775",
+     "Comment": "",
+     "Time": "2022.12.30 23:42:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:43:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9832",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.98067",
+     "Comment": "",
+     "Time": "2022.12.30 23:43:59"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:44:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9832",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.98291",
+     "Comment": "",
+     "Time": "2022.12.30 23:44:59"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:45:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.98163",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.9782",
+     "Comment": "",
+     "Time": "2022.12.30 23:45:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:46:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9832",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.98311",
+     "Comment": "",
+     "Time": "2022.12.30 23:46:59"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:47:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.98058",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.97545",
+     "Comment": "",
+     "Time": "2022.12.30 23:47:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:48:40"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Sell",
+     "Volume": "0.1",
+     "EntryPrice": "16.9836",
+     "StopLossPrice": "17.02325",
+     "TakeProfitPrice": "16.98151",
+     "Comment": "",
+     "Time": "2022.12.30 23:49:00"
+  },
+  {
+     "Symbol": "USDZAR",
+     "Type": "Buy",
+     "Volume": "0.1",
+     "EntryPrice": "17.02325",
+     "StopLossPrice": "0.0",
+     "TakeProfitPrice": "0.0",
+     "Comment": "sl 17.02325",
+     "Time": "2022.12.30 23:49:40"
+  }
+]}

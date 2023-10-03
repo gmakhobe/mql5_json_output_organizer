@@ -1,0 +1,18 @@
+{
+  "first_simester": {
+    "gross_profit": 27304.340000000004,
+    "gross_loss": -32494.729999999996,
+    "gross_reward": 168,
+    "gross_risk": 120,
+    "net_profit": -5190.389999999998,
+    "net_reward": 48
+  },
+  "second_simester": {
+    "gross_profit": 27410.390000000003,
+    "gross_loss": -36267.08,
+    "gross_reward": 126,
+    "gross_risk": 121,
+    "net_profit": -8856.689999999999,
+    "net_reward": 5
+  }
+}
