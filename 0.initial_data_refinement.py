@@ -1,27 +1,122 @@
 import json
-import os
-import sys
-import time
+import csv
+import datetime
 
 from utilities.refine_deals_and_orders_data import RefineDealsAndOrdersData
 
-json_file_deals = open(os.path.join(sys.path[0], "raw_data/Gold/deals_sells_Gold.json"), "r")
-json_file_orders = open(os.path.join(sys.path[0], "raw_data/Gold/orders_sells_Gold.json"), "r")
-json_data_orders = json.load(json_file_orders) 
-json_data_deals = json.load(json_file_deals)
-refine_deals_and_orders_data = RefineDealsAndOrdersData()
+def get_duration(from_date, to_date):
+    # Define two date and time objects
+    start_date = datetime.datetime.strptime(from_date, "%Y-%m-%d %H:%M")  # Example start date and time
+    end_date = datetime.datetime.strptime(to_date, "%Y-%m-%d %H:%M")   # Example end date and time
 
-defined_information = {}
+    # Calculate the duration
+    duration = end_date - start_date
 
-for deals_key, orders_keys in zip(json_data_deals, json_data_orders):
-  deals = json_data_deals[deals_key]
-  orders = json_data_orders[orders_keys]
+    # Extract days and seconds from the duration
+    days = duration.days
+    seconds = duration.seconds
 
-  refine_deals_and_orders_data.set_lists(deals, orders)
-  refine_deals_and_orders_data.refine_dictionary()
-  refined_data = refine_deals_and_orders_data.get_refined_dictionary()
+    # Calculate the number of hours
+    hours = seconds // 3600  # 3600 seconds in an hour
 
-  defined_information[deals_key] = refined_data["refined_data"]
+    # Format the output
+    if days > 0:
+        duration_str = f"{days} days"
+    elif hours > 0:
+        duration_str = f"{hours} hours"
+    else:
+        duration_str = "Less than 1 hour"
 
-with open("final_refined_data/Gold/sells_Gold.json", "w") as file:
-  json.dump(defined_information, file)
+    return duration_str
+
+json_data_deals = None
+with open('raw_data/STS_GBPJPY/Buy_and_Sells/deals.json', 'r') as file:
+    string_file_deals = file.read()
+    json_file_deals = json.loads(string_file_deals)
+
+json_data_orders = None
+with open('raw_data/STS_GBPJPY/Buy_and_Sells/orders.json', 'r') as file:
+    string_file_orders = file.read()
+    json_data_orders = json.loads(string_file_orders)
+
+monitoring_counter = 1
+information = []
+data_in_dictionary = None
+for counter, (orders, deals) in enumerate(zip(json_data_orders["data"], json_file_deals["data"])):
+    if monitoring_counter == 1:
+        # Execute log
+        datetime_ = orders["Time"]
+        datetime_ = datetime_.replace(".", "-")
+        datetime_object = datetime.datetime.strptime(datetime_, "%Y-%m-%d %H:%M") 
+        data_in_dictionary = {
+          "Symbol": orders["Symbol"],
+          "TradeType": orders["Type"],
+          "EntryPrice": deals["EntryPrice"],
+          "StopLossPrice": deals["StopLossPrice"],
+          "TakeProfitPrice": orders["TakeProfitPrice"],
+          "DayTradeTaken": datetime_object.strftime('%A'),
+          "MonthTradeTaken": datetime_object.strftime('%B'),
+          "EntryDate": datetime_,
+          "ExitDate": None,
+          "TradeDuration": None,
+          "TradeResults": None,
+          "PrevMonthCandleType": orders["PrevMonthCandleType"],
+          "PrevMonthDidOpenInTheBody": orders["PrevMonthDidCurrentTradeOpenInTheBody"],
+          "PrevThreeMonthsClosing": orders["PrevThreeMonthsClosing"],
+          "PrevWeekCandleType": orders["PrevWeekCandleType"],
+          "PrevWeekDidOpenInTheBody": orders["PrevWeekDidCurrentTradeOpenInTheBody"],
+          "PrevThreeWeeksClosing": orders["PrevThreeWeeksClosing"],
+          "PrevDayCandleType": orders["PrevDayCandleType"],
+          "PrevDayDidOpenInTheBody": orders["PrevDayDidCurrentTradeOpenInTheBody"],
+          "PrevThreeDaysClosing": orders["PrevThreeDaysClosing"]
+        }
+
+        monitoring_counter = 2
+        continue
+    if monitoring_counter == 2:
+        datetime_ = orders["Time"].replace(".", "-")
+        trade_results = float(deals["Profit"])
+        data_in_dictionary["TradeDuration"] =  get_duration(data_in_dictionary['EntryDate'], datetime_)
+        data_in_dictionary["TradeResults"] = 2 if trade_results > 0 else -1
+        data_in_dictionary["ExitDate"] = datetime_
+    information.append(data_in_dictionary)
+    data_in_dictionary = None 
+    monitoring_counter = 1
+
+defined_information = {
+    "data": information
+}
+
+csv_file_path = 'STS_output.csv'
+fieldnames = [
+          "Symbol",
+          "TradeType",
+          "EntryPrice",
+          "StopLossPrice",
+          "TakeProfitPrice",
+          "DayTradeTaken",
+          "MonthTradeTaken",
+          "EntryDate",
+          "ExitDate",
+          "TradeDuration",
+          "TradeResults",
+          "PrevMonthCandleType",
+          "PrevMonthDidOpenInTheBody",
+          "PrevThreeMonthsClosing",
+          "PrevWeekCandleType",
+          "PrevWeekDidOpenInTheBody",
+          "PrevThreeWeeksClosing",
+          "PrevDayCandleType",
+          "PrevDayDidOpenInTheBody",
+          "PrevThreeDaysClosing"
+        ]
+# Open the CSV file and write data
+with open(csv_file_path, 'w', newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    # Write the header row
+    writer.writeheader()
+
+    # Write the data rows
+    for row in information:
+        writer.writerow(row)

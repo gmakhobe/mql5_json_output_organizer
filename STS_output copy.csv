@@ -1,0 +1,219 @@
+Symbol,TradeType,EntryPrice,StopLossPrice,TakeProfitPrice,DayTradeTaken,MonthTradeTaken,EntryDate,ExitDate,TradeDuration,TradeResults,PrevMonthCandleType,PrevMonthDidOpenInTheBody,PrevThreeMonthsClosing,PrevWeekCandleType,PrevWeekDidOpenInTheBody,PrevThreeWeeksClosing,PrevDayCandleType,PrevDayDidOpenInTheBody,PrevThreeDaysClosing
+GBPJPY,Buy,155.79900000,155.58400000,0.00000000,Monday,January,2022-01-03 10:45,2022-01-03 12:59,2 hours,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,155.89400000,155.67900000,0.00000000,Tuesday,January,2022-01-04 08:00,2022-01-04 10:59,2 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,157.06600000,156.91300000,0.00000000,Wednesday,January,2022-01-05 18:00,2022-01-05 18:59,Less than 1 hour,2,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,157.10700000,156.93100000,0.00000000,Friday,January,2022-01-07 22:00,2022-01-10 00:14,2 days,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,157.34200000,157.17900000,0.00000000,Monday,January,2022-01-10 08:00,2022-01-10 10:29,2 hours,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,156.95800000,156.80500000,0.00000000,Tuesday,January,2022-01-11 11:00,2022-01-11 13:59,2 hours,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,157.36300000,157.20800000,0.00000000,Wednesday,January,2022-01-12 08:00,2022-01-12 09:14,1 hours,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,156.73600000,156.88900000,0.00000000,Thursday,January,2022-01-13 18:00,2022-01-13 19:29,1 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,155.94000000,156.09300000,0.00000000,Friday,January,2022-01-14 14:30,2022-01-14 15:59,1 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,156.24000000,156.39300000,0.00000000,Tuesday,January,2022-01-18 12:00,2022-01-18 14:14,2 hours,2,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,155.48200000,155.81300000,0.00000000,Wednesday,January,2022-01-19 08:00,2022-01-19 11:14,3 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,155.51200000,155.66500000,0.00000000,Thursday,January,2022-01-20 14:00,2022-01-20 16:44,2 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,154.48200000,154.63500000,0.00000000,Friday,January,2022-01-21 10:15,2022-01-21 10:44,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,154.16100000,154.38500000,0.00000000,Monday,January,2022-01-24 08:15,2022-01-24 11:14,2 hours,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,153.36500000,153.50200000,0.00000000,Tuesday,January,2022-01-25 08:00,2022-01-25 08:59,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,154.02300000,154.23100000,0.00000000,Thursday,January,2022-01-27 08:00,2022-01-27 10:44,2 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,154.83100000,154.58900000,0.00000000,Friday,January,2022-01-28 08:00,2022-01-28 10:29,2 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,154.97500000,154.79500000,0.00000000,Monday,January,2022-01-31 09:00,2022-01-31 12:44,3 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,155.04100000,154.88800000,0.00000000,Tuesday,February,2022-02-01 18:00,2022-02-01 19:44,1 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,155.27300000,154.94700000,0.00000000,Wednesday,February,2022-02-02 20:15,2022-02-03 09:15,13 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,155.78000000,155.31600000,2024.67000000,Thursday,February,2022-02-03 13:59,2022-02-03 14:14,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,156.23400000,155.97100000,0.00000000,Tuesday,February,2022-02-08 09:00,2022-02-09 12:15,1 days,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,156.75400000,156.23400000,2113.25000000,Wednesday,February,2022-02-09 12:29,2022-02-09 16:29,4 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,156.52300000,156.30900000,0.00000000,Thursday,February,2022-02-10 08:15,2022-02-10 11:14,2 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,157.44300000,157.16000000,0.00000000,Friday,February,2022-02-11 15:00,2022-02-11 20:44,5 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,156.18100000,156.39000000,0.00000000,Monday,February,2022-02-14 09:00,2022-02-14 10:29,1 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,156.04100000,156.26400000,0.00000000,Tuesday,February,2022-02-15 08:00,2022-02-15 10:14,2 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,156.79000000,156.62200000,0.00000000,Wednesday,February,2022-02-16 08:00,2022-02-16 12:29,4 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,156.14100000,156.29400000,0.00000000,Thursday,February,2022-02-17 11:15,2022-02-17 11:29,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,156.83900000,156.65200000,0.00000000,Friday,February,2022-02-18 09:00,2022-02-18 10:44,1 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,156.44200000,156.73800000,0.00000000,Monday,February,2022-02-21 13:30,2022-02-22 01:14,11 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,155.60500000,155.75800000,0.00000000,Tuesday,February,2022-02-22 10:00,2022-02-22 10:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,156.55800000,156.32000000,0.00000000,Wednesday,February,2022-02-23 10:00,2022-02-23 15:14,5 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,154.64600000,154.80000000,0.00000000,Thursday,February,2022-02-24 08:00,2022-02-24 08:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,154.36800000,154.50000000,0.00000000,Monday,February,2022-02-28 08:00,2022-02-28 08:59,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,154.15000000,154.30300000,0.00000000,Tuesday,March,2022-03-01 11:30,2022-03-01 12:29,Less than 1 hour,2,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,152.87200000,153.02500000,0.00000000,Wednesday,March,2022-03-02 09:15,2022-03-02 09:44,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,155.07600000,154.93400000,0.00000000,Thursday,March,2022-03-03 08:00,2022-03-03 09:59,1 hours,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,153.72000000,153.87300000,0.00000000,Friday,March,2022-03-04 10:15,2022-03-04 13:14,2 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,151.39800000,151.55100000,0.00000000,Monday,March,2022-03-07 10:45,2022-03-07 11:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,151.03300000,151.18600000,0.00000000,Tuesday,March,2022-03-08 09:15,2022-03-08 09:29,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,152.27900000,152.43200000,0.00000000,Thursday,March,2022-03-10 18:00,2022-03-10 19:44,1 hours,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,152.89900000,152.74600000,0.00000000,Friday,March,2022-03-11 12:00,2022-03-11 13:29,1 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,153.39000000,153.12300000,0.00000000,Monday,March,2022-03-14 10:00,2022-03-14 13:14,3 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,154.35600000,154.04200000,0.00000000,Tuesday,March,2022-03-15 08:00,2022-03-15 10:14,2 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,154.50800000,154.22000000,0.00000000,Wednesday,March,2022-03-16 12:00,2022-03-16 17:29,5 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,156.60000000,156.44700000,0.00000000,Thursday,March,2022-03-17 10:15,2022-03-17 10:44,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,156.81100000,156.65800000,0.00000000,Friday,March,2022-03-18 17:15,2022-03-18 19:59,2 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,156.94000000,156.81200000,0.00000000,Monday,March,2022-03-21 10:15,2022-03-21 10:44,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,158.11500000,157.78100000,0.00000000,Tuesday,March,2022-03-22 08:00,2022-03-22 11:44,3 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,160.78500000,160.55400000,0.00000000,Wednesday,March,2022-03-23 08:00,2022-03-23 10:29,2 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,160.85000000,160.69600000,0.00000000,Thursday,March,2022-03-24 18:00,2022-03-24 19:44,1 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,161.77100000,161.43300000,0.00000000,Monday,March,2022-03-28 08:00,2022-03-28 10:14,2 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,159.94400000,160.26500000,0.00000000,Wednesday,March,2022-03-30 22:00,2022-03-31 02:14,4 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,159.68300000,159.83600000,0.00000000,Thursday,March,2022-03-31 10:00,2022-03-31 10:44,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,160.98800000,160.83300000,0.00000000,Friday,April,2022-04-01 08:00,2022-04-01 08:44,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,160.82600000,160.62700000,0.00000000,Monday,April,2022-04-04 08:00,2022-04-04 11:14,3 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,160.84200000,160.51800000,0.00000000,Tuesday,April,2022-04-05 09:00,2022-04-05 10:59,1 hours,2,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,161.84000000,161.70500000,0.00000000,Wednesday,April,2022-04-06 10:00,2022-04-06 10:44,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,161.90100000,161.56600000,0.00000000,Thursday,April,2022-04-07 09:30,2022-04-07 11:14,1 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,162.10100000,161.94800000,0.00000000,Friday,April,2022-04-08 20:00,2022-04-11 00:14,2 days,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,162.61400000,162.26400000,0.00000000,Monday,April,2022-04-11 08:00,2022-04-11 11:44,3 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,163.47900000,163.32600000,0.00000000,Tuesday,April,2022-04-12 08:30,2022-04-12 09:14,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,163.75000000,163.39900000,0.00000000,Wednesday,April,2022-04-13 10:00,2022-04-13 19:44,9 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,164.64900000,164.49600000,0.00000000,Thursday,April,2022-04-14 20:45,2022-04-15 00:59,4 hours,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,165.19000000,165.02300000,0.00000000,Friday,April,2022-04-15 08:00,2022-04-15 08:29,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.57300000,166.42000000,0.00000000,Tuesday,April,2022-04-19 08:00,2022-04-19 08:29,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,165.30300000,165.45600000,0.00000000,Friday,April,2022-04-22 11:00,2022-04-22 11:14,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,164.50900000,164.80700000,0.00000000,Monday,April,2022-04-25 08:00,2022-04-25 09:29,1 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,162.78500000,162.93800000,0.00000000,Tuesday,April,2022-04-26 09:45,2022-04-26 10:14,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,160.61800000,160.77100000,0.00000000,Wednesday,April,2022-04-27 11:30,2022-04-27 12:14,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,162.69100000,162.84500000,0.00000000,Monday,May,2022-05-02 20:00,2022-05-02 21:44,1 hours,2,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,162.70900000,162.86200000,0.00000000,Tuesday,May,2022-05-03 13:45,2022-05-03 14:29,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,162.44900000,162.64800000,0.00000000,Wednesday,May,2022-05-04 08:00,2022-05-04 10:14,2 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,162.72500000,162.57200000,0.00000000,Thursday,May,2022-05-05 12:00,2022-05-05 13:44,1 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,161.12400000,161.27800000,0.00000000,Friday,May,2022-05-06 09:30,2022-05-06 09:59,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,160.90500000,161.05800000,0.00000000,Monday,May,2022-05-09 08:00,2022-05-09 09:59,1 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,160.75000000,160.90300000,0.00000000,Tuesday,May,2022-05-10 10:30,2022-05-10 11:44,1 hours,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,160.44100000,160.59400000,0.00000000,Wednesday,May,2022-05-11 10:15,2022-05-11 11:59,1 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,158.43900000,158.59200000,0.00000000,Thursday,May,2022-05-12 08:00,2022-05-12 08:59,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,157.07500000,157.23000000,0.00000000,Friday,May,2022-05-13 09:15,2022-05-13 09:29,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,157.92000000,158.07700000,0.00000000,Monday,May,2022-05-16 08:00,2022-05-16 08:14,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,160.09800000,159.94500000,0.00000000,Tuesday,May,2022-05-17 10:00,2022-05-17 10:14,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,159.36700000,159.52000000,0.00000000,Wednesday,May,2022-05-18 17:00,2022-05-18 17:29,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,159.57600000,159.42100000,0.00000000,Thursday,May,2022-05-19 08:00,2022-05-19 08:44,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,159.12400000,159.27900000,0.00000000,Friday,May,2022-05-20 08:00,2022-05-20 08:44,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,160.45500000,160.30200000,0.00000000,Monday,May,2022-05-23 09:00,2022-05-23 09:29,Less than 1 hour,2,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,159.10900000,159.26300000,0.00000000,Tuesday,May,2022-05-24 12:00,2022-05-24 12:29,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,158.85700000,159.01000000,0.00000000,Wednesday,May,2022-05-25 12:30,2022-05-25 12:59,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,159.35300000,159.50600000,0.00000000,Thursday,May,2022-05-26 11:00,2022-05-26 12:14,1 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,160.80400000,160.65100000,0.00000000,Monday,May,2022-05-30 09:15,2022-05-30 09:44,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,162.06300000,161.91000000,0.00000000,Tuesday,May,2022-05-31 17:00,2022-05-31 17:59,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,162.72600000,162.57300000,0.00000000,Wednesday,June,2022-06-01 09:30,2022-06-01 10:14,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,162.85200000,162.69900000,0.00000000,Thursday,June,2022-06-02 12:00,2022-06-02 12:44,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,163.47800000,163.32500000,0.00000000,Friday,June,2022-06-03 11:45,2022-06-03 15:29,3 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,164.07700000,163.92400000,0.00000000,Monday,June,2022-06-06 11:00,2022-06-06 11:14,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.07300000,165.92000000,0.00000000,Tuesday,June,2022-06-07 08:00,2022-06-07 08:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,167.34600000,167.03500000,0.00000000,Wednesday,June,2022-06-08 08:30,2022-06-08 13:44,5 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,168.45300000,168.30000000,0.00000000,Thursday,June,2022-06-09 18:00,2022-06-09 18:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,165.10900000,165.26200000,0.00000000,Monday,June,2022-06-13 10:00,2022-06-13 10:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,162.47500000,162.62800000,0.00000000,Tuesday,June,2022-06-14 13:00,2022-06-14 13:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,162.10600000,162.25900000,0.00000000,Wednesday,June,2022-06-15 08:00,2022-06-15 08:14,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,162.29500000,162.44800000,0.00000000,Thursday,June,2022-06-16 11:00,2022-06-16 11:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,165.17400000,165.02100000,0.00000000,Friday,June,2022-06-17 11:00,2022-06-17 11:44,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,165.32300000,165.17000000,0.00000000,Monday,June,2022-06-20 09:00,2022-06-20 09:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.25900000,166.10600000,0.00000000,Tuesday,June,2022-06-21 10:30,2022-06-21 11:44,1 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.21200000,166.05900000,0.00000000,Friday,June,2022-06-24 14:00,2022-06-24 14:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,166.10800000,165.95500000,0.00000000,Monday,June,2022-06-27 10:00,2022-06-27 10:29,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.42700000,166.27400000,0.00000000,Tuesday,June,2022-06-28 09:30,2022-06-28 10:14,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.01800000,165.88900000,0.00000000,Wednesday,June,2022-06-29 08:15,2022-06-29 08:44,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,165.37400000,165.52700000,0.00000000,Thursday,June,2022-06-30 10:15,2022-06-30 10:44,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,163.71900000,163.87200000,0.00000000,Friday,July,2022-07-01 08:00,2022-07-01 08:14,Less than 1 hour,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,163.61000000,163.76300000,0.00000000,Tuesday,July,2022-07-05 12:00,2022-07-05 12:44,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,161.52700000,161.68000000,0.00000000,Wednesday,July,2022-07-06 08:00,2022-07-06 08:29,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,162.76700000,162.92000000,0.00000000,Friday,July,2022-07-08 08:00,2022-07-08 08:59,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,164.23100000,164.07800000,0.00000000,Monday,July,2022-07-11 08:00,2022-07-11 09:14,1 hours,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,162.89000000,163.23900000,0.00000000,Tuesday,July,2022-07-12 08:00,2022-07-12 11:14,3 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,163.48600000,163.33300000,0.00000000,Wednesday,July,2022-07-13 10:00,2022-07-13 10:29,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,163.96600000,163.81100000,0.00000000,Thursday,July,2022-07-14 08:00,2022-07-14 09:44,1 hours,2,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,164.99700000,164.84400000,0.00000000,Monday,July,2022-07-18 11:00,2022-07-18 11:29,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,165.49000000,165.33700000,0.00000000,Tuesday,July,2022-07-19 10:30,2022-07-19 10:44,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,164.11100000,164.26400000,0.00000000,Friday,July,2022-07-22 11:00,2022-07-22 11:29,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,163.21400000,163.55000000,0.00000000,Monday,July,2022-07-25 08:00,2022-07-25 09:59,1 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,164.06900000,164.22200000,0.00000000,Tuesday,July,2022-07-26 13:00,2022-07-26 14:44,1 hours,2,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,165.22500000,164.90300000,0.00000000,Wednesday,July,2022-07-27 08:00,2022-07-27 09:29,1 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,164.71400000,164.87100000,0.00000000,Thursday,July,2022-07-28 08:00,2022-07-28 08:59,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,162.56400000,162.72100000,0.00000000,Friday,July,2022-07-29 08:00,2022-07-29 08:29,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,161.45000000,161.60300000,0.00000000,Monday,August,2022-08-01 09:00,2022-08-01 09:44,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,159.83800000,159.99500000,0.00000000,Tuesday,August,2022-08-02 08:30,2022-08-02 08:44,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,163.22100000,163.06800000,0.00000000,Thursday,August,2022-08-04 11:00,2022-08-04 13:14,2 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,161.35800000,161.51900000,0.00000000,Friday,August,2022-08-05 12:15,2022-08-05 12:44,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,163.34500000,163.18100000,0.00000000,Monday,August,2022-08-08 08:00,2022-08-08 09:59,1 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,163.55600000,163.39800000,0.00000000,Tuesday,August,2022-08-09 17:00,2022-08-09 17:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,163.26600000,162.91800000,0.00000000,Wednesday,August,2022-08-10 11:45,2022-08-10 15:44,3 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,162.18200000,162.44400000,0.00000000,Thursday,August,2022-08-11 10:00,2022-08-11 11:14,1 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,162.42900000,162.21400000,0.00000000,Friday,August,2022-08-12 08:00,2022-08-12 10:29,2 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,161.37500000,161.72300000,0.00000000,Monday,August,2022-08-15 08:00,2022-08-15 12:29,4 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,162.65300000,162.49500000,0.00000000,Tuesday,August,2022-08-16 17:00,2022-08-16 17:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,162.58300000,162.28000000,0.00000000,Wednesday,August,2022-08-17 08:00,2022-08-17 11:29,3 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,162.88700000,162.72900000,0.00000000,Thursday,August,2022-08-18 11:15,2022-08-18 11:29,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,162.12400000,162.28200000,0.00000000,Friday,August,2022-08-19 13:00,2022-08-19 13:59,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,161.90000000,162.05800000,0.00000000,Monday,August,2022-08-22 10:00,2022-08-22 10:29,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,161.49000000,161.81300000,0.00000000,Tuesday,August,2022-08-23 08:00,2022-08-23 09:44,1 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,161.10900000,161.26700000,0.00000000,Wednesday,August,2022-08-24 13:00,2022-08-24 14:14,1 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,161.92700000,161.76800000,0.00000000,Thursday,August,2022-08-25 10:00,2022-08-25 10:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,161.96700000,161.80900000,0.00000000,Friday,August,2022-08-26 13:00,2022-08-26 15:44,2 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,162.28900000,162.12800000,0.00000000,Monday,August,2022-08-29 16:00,2022-08-29 16:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,162.49900000,162.34100000,0.00000000,Tuesday,August,2022-08-30 10:45,2022-08-30 10:59,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,161.54400000,161.70400000,0.00000000,Wednesday,August,2022-08-31 10:00,2022-08-31 11:29,1 hours,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,161.32900000,161.48800000,0.00000000,Thursday,September,2022-09-01 12:45,2022-09-01 13:59,1 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,162.10400000,161.74900000,0.00000000,Friday,September,2022-09-02 08:00,2022-09-02 16:59,8 hours,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,160.90500000,161.12900000,0.00000000,Monday,September,2022-09-05 08:00,2022-09-05 09:14,1 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,163.13600000,162.97500000,0.00000000,Tuesday,September,2022-09-06 08:30,2022-09-06 09:44,1 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,165.28000000,165.12200000,0.00000000,Wednesday,September,2022-09-07 08:00,2022-09-07 08:14,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,165.80900000,165.65100000,0.00000000,Thursday,September,2022-09-08 14:00,2022-09-08 14:29,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.16000000,165.99800000,0.00000000,Monday,September,2022-09-12 08:00,2022-09-12 08:59,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,166.77000000,166.61100000,0.00000000,Tuesday,September,2022-09-13 10:30,2022-09-13 11:59,1 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,165.00100000,165.15900000,0.00000000,Thursday,September,2022-09-15 13:00,2022-09-15 16:30,3 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,164.05100000,164.39600000,0.00000000,Friday,September,2022-09-16 09:15,2022-09-16 10:44,1 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,163.06000000,163.21800000,0.00000000,Monday,September,2022-09-19 12:00,2022-09-19 12:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,163.46200000,163.62000000,0.00000000,Tuesday,September,2022-09-20 20:00,2022-09-20 20:44,Less than 1 hour,2,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,162.65000000,162.80800000,0.00000000,Wednesday,September,2022-09-21 09:45,2022-09-21 09:59,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,160.91900000,161.07700000,0.00000000,Thursday,September,2022-09-22 12:00,2022-09-22 12:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,159.81600000,159.98600000,0.00000000,Friday,September,2022-09-23 08:00,2022-09-23 10:14,2 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,151.85800000,152.02000000,0.00000000,Monday,September,2022-09-26 08:00,2022-09-26 08:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,154.03400000,154.19200000,0.00000000,Wednesday,September,2022-09-28 08:00,2022-09-28 08:29,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,159.50900000,159.35100000,0.00000000,Thursday,September,2022-09-29 18:00,2022-09-29 18:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,161.91200000,161.75100000,0.00000000,Friday,September,2022-09-30 11:45,2022-09-30 11:59,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,162.85300000,162.69500000,0.00000000,Monday,October,2022-10-03 09:00,2022-10-03 09:14,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,163.92700000,163.76900000,0.00000000,Tuesday,October,2022-10-04 08:00,2022-10-04 08:59,Less than 1 hour,2,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,165.52100000,165.36300000,0.00000000,Wednesday,October,2022-10-05 09:45,2022-10-05 09:59,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,160.77700000,160.93500000,0.00000000,Monday,October,2022-10-10 09:00,2022-10-10 09:14,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,160.69100000,160.85100000,0.00000000,Tuesday,October,2022-10-11 08:00,2022-10-11 08:29,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,162.32000000,162.16200000,0.00000000,Wednesday,October,2022-10-12 14:00,2022-10-12 14:14,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,163.02300000,162.86500000,0.00000000,Thursday,October,2022-10-13 12:00,2022-10-13 12:14,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.92600000,166.75700000,0.00000000,Friday,October,2022-10-14 08:00,2022-10-14 09:14,1 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,167.81700000,167.65900000,0.00000000,Monday,October,2022-10-17 09:00,2022-10-17 09:29,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,169.47100000,169.30600000,0.00000000,Tuesday,October,2022-10-18 08:00,2022-10-18 08:29,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,168.73300000,168.57500000,0.00000000,Thursday,October,2022-10-20 16:00,2022-10-20 16:59,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,168.44800000,168.29000000,0.00000000,Friday,October,2022-10-21 14:45,2022-10-21 14:59,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,168.97200000,168.80100000,0.00000000,Monday,October,2022-10-24 08:00,2022-10-24 08:14,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,168.46900000,168.31100000,0.00000000,Tuesday,October,2022-10-25 11:15,2022-10-25 12:44,1 hours,2,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,169.80100000,169.48600000,0.00000000,Wednesday,October,2022-10-26 08:00,2022-10-26 10:14,2 hours,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,169.98000000,169.82200000,0.00000000,Friday,October,2022-10-28 12:00,2022-10-28 12:29,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,169.53400000,169.69200000,0.00000000,Wednesday,November,2022-11-02 10:00,2022-11-02 10:29,Less than 1 hour,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,167.75400000,167.91200000,0.00000000,Thursday,November,2022-11-03 10:30,2022-11-03 11:29,Less than 1 hour,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,166.02000000,166.22900000,0.00000000,Friday,November,2022-11-04 10:00,2022-11-04 10:59,Less than 1 hour,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,169.04200000,168.88300000,0.00000000,Monday,November,2022-11-07 22:00,2022-11-07 22:44,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,167.93800000,168.09600000,0.00000000,Tuesday,November,2022-11-08 11:00,2022-11-08 11:29,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,166.93000000,167.08800000,0.00000000,Wednesday,November,2022-11-09 12:00,2022-11-09 12:14,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,165.64400000,165.80200000,0.00000000,Thursday,November,2022-11-10 16:45,2022-11-10 16:59,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,165.13000000,165.28800000,0.00000000,Friday,November,2022-11-11 11:15,2022-11-11 11:44,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,163.89100000,164.21700000,0.00000000,Monday,November,2022-11-14 09:15,2022-11-14 09:59,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,166.27500000,166.11700000,0.00000000,Thursday,November,2022-11-17 10:00,2022-11-17 10:14,Less than 1 hour,-1,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.93100000,166.77300000,0.00000000,Friday,November,2022-11-18 11:00,2022-11-18 11:44,Less than 1 hour,2,Bullish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,166.47700000,166.31900000,0.00000000,Monday,November,2022-11-21 09:45,2022-11-21 10:14,Less than 1 hour,2,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,168.13100000,167.97300000,0.00000000,Tuesday,November,2022-11-22 15:15,2022-11-22 15:59,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,168.01300000,167.85500000,0.00000000,Wednesday,November,2022-11-23 08:00,2022-11-23 10:14,2 hours,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,168.71200000,168.55200000,0.00000000,Friday,November,2022-11-25 13:00,2022-11-25 14:14,1 hours,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,166.71900000,166.88200000,0.00000000,Monday,November,2022-11-28 08:00,2022-11-28 08:44,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,165.95600000,166.11400000,0.00000000,Tuesday,November,2022-11-29 09:30,2022-11-29 09:44,Less than 1 hour,-1,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,165.88000000,166.04300000,0.00000000,Wednesday,November,2022-11-30 08:00,2022-11-30 08:29,Less than 1 hour,2,Bullish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,165.07300000,165.23500000,0.00000000,Thursday,December,2022-12-01 08:00,2022-12-01 09:14,1 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,165.26900000,165.42700000,0.00000000,Friday,December,2022-12-02 08:00,2022-12-02 09:14,1 hours,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,167.27100000,167.11200000,0.00000000,Tuesday,December,2022-12-06 09:15,2022-12-06 09:44,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,167.34500000,167.18600000,0.00000000,Wednesday,December,2022-12-07 13:00,2022-12-07 13:29,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,167.09900000,166.93500000,0.00000000,Thursday,December,2022-12-08 08:00,2022-12-08 08:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Ranging
+GBPJPY,Buy,167.23100000,167.06500000,0.00000000,Friday,December,2022-12-09 16:45,2022-12-09 17:14,Less than 1 hour,2,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,167.52200000,167.32000000,0.00000000,Monday,December,2022-12-12 08:00,2022-12-12 09:14,1 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Buy,169.03700000,168.68400000,0.00000000,Tuesday,December,2022-12-13 08:45,2022-12-13 10:14,1 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,166.92600000,167.08400000,0.00000000,Wednesday,December,2022-12-14 15:00,2022-12-14 15:44,Less than 1 hour,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Buy,168.04500000,167.82600000,0.00000000,Thursday,December,2022-12-15 08:00,2022-12-15 10:59,2 hours,-1,Bearish,No,Bullish,Bullish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,167.09500000,167.25300000,0.00000000,Friday,December,2022-12-16 10:00,2022-12-16 10:29,Less than 1 hour,2,Bearish,No,Bullish,Bullish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,161.04400000,161.20200000,0.00000000,Tuesday,December,2022-12-20 08:00,2022-12-20 08:29,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,160.42700000,160.58500000,0.00000000,Wednesday,December,2022-12-21 09:45,2022-12-21 10:14,Less than 1 hour,2,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,159.67200000,159.83300000,0.00000000,Thursday,December,2022-12-22 12:00,2022-12-22 12:14,Less than 1 hour,-1,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
+GBPJPY,Sell,160.91400000,161.22500000,0.00000000,Thursday,December,2022-12-29 08:00,2022-12-29 16:14,8 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bullish,No,Bullish
+GBPJPY,Sell,159.72900000,159.91500000,0.00000000,Friday,December,2022-12-30 08:00,2022-12-30 09:59,1 hours,2,Bearish,No,Bullish,Bearish,No,Bullish,Bearish,No,Bullish
