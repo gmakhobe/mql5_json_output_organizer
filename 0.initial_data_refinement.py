@@ -30,12 +30,12 @@ def get_duration(from_date, to_date):
     return duration_str
 
 json_data_deals = None
-with open('raw_data/STS_GBPJPY/Buy_and_Sells/deals.json', 'r') as file:
+with open('raw_data/STS_GBPJPY/Buys_and_Sells_2/deals.json', 'r') as file:
     string_file_deals = file.read()
     json_file_deals = json.loads(string_file_deals)
 
 json_data_orders = None
-with open('raw_data/STS_GBPJPY/Buy_and_Sells/orders.json', 'r') as file:
+with open('raw_data/STS_GBPJPY/Buys_and_Sells_2/orders.json', 'r') as file:
     string_file_orders = file.read()
     json_data_orders = json.loads(string_file_orders)
 
@@ -68,7 +68,10 @@ for counter, (orders, deals) in enumerate(zip(json_data_orders["data"], json_fil
           "PrevThreeWeeksClosing": orders["PrevThreeWeeksClosing"],
           "PrevDayCandleType": orders["PrevDayCandleType"],
           "PrevDayDidOpenInTheBody": orders["PrevDayDidCurrentTradeOpenInTheBody"],
-          "PrevThreeDaysClosing": orders["PrevThreeDaysClosing"]
+          "PrevThreeDaysClosing": orders["PrevThreeDaysClosing"],
+          "PrevFourHoursCandleType": orders["PrevFourHoursCandleType"],
+          "PrevFourHoursDidOpenInTheBody": orders["PrevFourHoursDidCurrentTradeOpenInTheBody"],
+          "PrevThreeFourHoursClosing": orders["PrevThreeFourHoursClosing"]
         }
 
         monitoring_counter = 2
@@ -87,7 +90,7 @@ defined_information = {
     "data": information
 }
 
-csv_file_path = 'STS_output.csv'
+csv_file_path = 'STS_output_v_2.csv'
 fieldnames = [
           "Symbol",
           "TradeType",
@@ -108,7 +111,10 @@ fieldnames = [
           "PrevThreeWeeksClosing",
           "PrevDayCandleType",
           "PrevDayDidOpenInTheBody",
-          "PrevThreeDaysClosing"
+          "PrevThreeDaysClosing",
+          "PrevFourHoursCandleType",
+          "PrevFourHoursDidOpenInTheBody",
+          "PrevThreeFourHoursClosing"
         ]
 # Open the CSV file and write data
 with open(csv_file_path, 'w', newline='') as csvfile:
