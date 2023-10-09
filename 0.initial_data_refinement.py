@@ -35,7 +35,7 @@ with open('raw_data/STS_GBPJPY/Buys_and_Sells_2/deals.json', 'r') as file:
     json_file_deals = json.loads(string_file_deals)
 
 json_data_orders = None
-with open('raw_data/STS_GBPJPY/Buys_and_Sells_2/orders.json', 'r') as file:
+with open('raw_data/STS_GBPJPY/Buys_and_Sells_3/orders.json', 'r') as file:
     string_file_orders = file.read()
     json_data_orders = json.loads(string_file_orders)
 
@@ -61,17 +61,15 @@ for counter, (orders, deals) in enumerate(zip(json_data_orders["data"], json_fil
           "TradeDuration": None,
           "TradeResults": None,
           "PrevMonthCandleType": orders["PrevMonthCandleType"],
-          "PrevMonthDidOpenInTheBody": orders["PrevMonthDidCurrentTradeOpenInTheBody"],
           "PrevThreeMonthsClosing": orders["PrevThreeMonthsClosing"],
           "PrevWeekCandleType": orders["PrevWeekCandleType"],
-          "PrevWeekDidOpenInTheBody": orders["PrevWeekDidCurrentTradeOpenInTheBody"],
           "PrevThreeWeeksClosing": orders["PrevThreeWeeksClosing"],
           "PrevDayCandleType": orders["PrevDayCandleType"],
-          "PrevDayDidOpenInTheBody": orders["PrevDayDidCurrentTradeOpenInTheBody"],
           "PrevThreeDaysClosing": orders["PrevThreeDaysClosing"],
           "PrevFourHoursCandleType": orders["PrevFourHoursCandleType"],
-          "PrevFourHoursDidOpenInTheBody": orders["PrevFourHoursDidCurrentTradeOpenInTheBody"],
-          "PrevThreeFourHoursClosing": orders["PrevThreeFourHoursClosing"]
+          "PrevThreeFourHoursClosing": orders["PrevThreeFourHoursClosing"],
+          "PrevOneHourCandleType": orders["PrevOneHourCandleType"],
+          "PrevThreeOneHourClosing": orders["PrevThreeOneHourClosing"]
         }
 
         monitoring_counter = 2
@@ -90,7 +88,7 @@ defined_information = {
     "data": information
 }
 
-csv_file_path = 'STS_output_v_2.csv'
+csv_file_path = 'STS_output_v_3.csv'
 fieldnames = [
           "Symbol",
           "TradeType",
@@ -104,17 +102,15 @@ fieldnames = [
           "TradeDuration",
           "TradeResults",
           "PrevMonthCandleType",
-          "PrevMonthDidOpenInTheBody",
           "PrevThreeMonthsClosing",
           "PrevWeekCandleType",
-          "PrevWeekDidOpenInTheBody",
           "PrevThreeWeeksClosing",
           "PrevDayCandleType",
-          "PrevDayDidOpenInTheBody",
           "PrevThreeDaysClosing",
           "PrevFourHoursCandleType",
-          "PrevFourHoursDidOpenInTheBody",
-          "PrevThreeFourHoursClosing"
+          "PrevThreeFourHoursClosing",
+          "PrevOneHourCandleType",
+          "PrevThreeOneHourClosing"
         ]
 # Open the CSV file and write data
 with open(csv_file_path, 'w', newline='') as csvfile:
